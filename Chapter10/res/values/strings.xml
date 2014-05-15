@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chapter10</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title1">[地図]\n地図を表示したい</string>
+    <string name="app_title2">[地図]\n地図にピンを打ちたい</string>
+    <string name="app_title3">[地図]\n緯度経度から住所を取得したい</string>
+    <string name="app_title4">[地図]\n経路を表示したい</string>
+    <string name="ch1002_pinpoint">ピンの座標</string>
+    <string name="ch1002_latitude">緯度 : %s</string>
+    <string name="ch1002_longitude">経度 : %s</string>
+
+</resources>

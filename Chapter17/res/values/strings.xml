@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chapter17</string>
+    <string name="app_title2">アプリ内課金を実現したい</string>
+    <string name="app_title3">広告を表示したい</string>
+
+</resources>
